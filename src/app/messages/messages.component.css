@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+  color: darkslategray;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.clear {
+  text-align: center;
+  color: white;
+  background-color: maroon;
+  margin-bottom: 12px;
+  padding: 1rem;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+.clear:hover {
+  text-align: center;
+  color: white;
+  background-color: #42545C;
+}

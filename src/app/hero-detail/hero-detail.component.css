@@ -1,5 +1,11 @@
 
 label {
+  text-align: center;
+  color: #435960;
+  font-weight: bold;
+}
+span{
+  text-align: center;
   color: #435960;
   font-weight: bold;
 }
